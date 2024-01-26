@@ -8,7 +8,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 class GithubActionsSandboxPubApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void テストケース１() {
 		assertThat("aaa").isEqualTo("aaa");
 	}
 
